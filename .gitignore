@@ -1,0 +1,14 @@
+__pycache__/
+.venv/
+.local/
+.env
+*.sqlite*
+*.pdf
+*token*.json
+*credentials*.json
+config.local.*
+*.log
+client_secret*.json
+*-client.json
+*-key.json
+secrets.toml
